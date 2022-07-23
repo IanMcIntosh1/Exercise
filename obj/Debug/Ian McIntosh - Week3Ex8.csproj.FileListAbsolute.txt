@@ -1,0 +1,11 @@
+D:\visual studio 2022\Wu\Ian McIntosh - Week3Ex8\bin\Debug\Ian McIntosh - Week3Ex8.exe.config
+D:\visual studio 2022\Wu\Ian McIntosh - Week3Ex8\bin\Debug\Ian McIntosh - Week3Ex8.exe
+D:\visual studio 2022\Wu\Ian McIntosh - Week3Ex8\bin\Debug\Ian McIntosh - Week3Ex8.pdb
+D:\visual studio 2022\Wu\Ian McIntosh - Week3Ex8\obj\Debug\Ian McIntosh - Week3Ex8.csproj.AssemblyReference.cache
+D:\visual studio 2022\Wu\Ian McIntosh - Week3Ex8\obj\Debug\Ian McIntosh - Week3Ex8.csproj.SuggestedBindingRedirects.cache
+D:\visual studio 2022\Wu\Ian McIntosh - Week3Ex8\obj\Debug\Ian_McIntosh___Week3Ex8.Properties.Resources.resources
+D:\visual studio 2022\Wu\Ian McIntosh - Week3Ex8\obj\Debug\Ian McIntosh - Week3Ex8.csproj.GenerateResource.cache
+D:\visual studio 2022\Wu\Ian McIntosh - Week3Ex8\obj\Debug\Ian McIntosh - Week3Ex8.csproj.CoreCompileInputs.cache
+D:\visual studio 2022\Wu\Ian McIntosh - Week3Ex8\obj\Debug\Ian McIntosh - Week3Ex8.exe
+D:\visual studio 2022\Wu\Ian McIntosh - Week3Ex8\obj\Debug\Ian McIntosh - Week3Ex8.pdb
+D:\visual studio 2022\Wu\Ian McIntosh - Week3Ex8\obj\Debug\Ian_McIntosh___Week3Ex8.pictureBoxDisplay.resources
